@@ -1,0 +1,1 @@
+rediscache is a cache plugin for Apache Traffic Server base on the redis key-value store.
